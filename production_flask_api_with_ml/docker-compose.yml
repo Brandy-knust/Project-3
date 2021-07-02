@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+
+  nginx:
+    build: ./nginx
+    ports:
+      - "80:80"
+    links:
+      - api:api
+
+  api:
+    build: ./api
+    expose:
+      - "8000"
+    command: /usr/local/bin/gunicorn -w 2 -b :8000 app:app
