@@ -14,6 +14,7 @@ import numpy as np
 
 from numpy.random import seed
 
+
 import tensorflow
 tensorflow.keras.__version__
 
