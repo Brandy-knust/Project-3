@@ -50,12 +50,12 @@ d3.json("/directors").then((data) => {
 
 });
 
-// function correct() {
-//     d3.event.preventDefault();
-//     var ans=[] 
-//     outcome = ans.indexOf(predictedResult)
-//     updateData(outcome)
-// }
+function correct() {
+    d3.event.preventDefault();
+    var ans=[] 
+    outcome = ans.indexOf(predictedResult)
+    updateData(outcome)
+}
 
 
 // function wrong() {
