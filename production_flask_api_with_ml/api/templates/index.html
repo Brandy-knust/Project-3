@@ -89,8 +89,16 @@
                     <div class="banner-caption">
                         <div class="line-dec"></div>
                         {% if result %} 
+                        <div class="input-dictionary">
+                            <h2>Rating : {{result.input.rating}}</h2>
+                            <h2>Genre: {{result.input.Genre}}</h2>
+                            <h2>Produciton Company : {{result.input['Production Company']}}</h2>
+                            <h2>Run Time : {{result.input.runtime}}</h2>
+                            <h2>Director : {{result.director}}</h2>
+                            <!-- <h2>{{result.input.director}}</h2>                             -->
+                        </div>
                         <div class = 'result'>
-                            <h1>Predicted Audience Score = {{result}}</h1>
+                            <h1>Predicted Audience Score = {{result.score}}</h1>
                         </div>
                         {% else %} 
                         <h2>Find Out What Your Next Movie Will be Rated!</h2>
@@ -155,6 +163,7 @@
                                             <option value="A24">A24</option>
                                             <option value="American International Picture">American International Picture</option>
                                             <option value="Anchor Bay Entertainment">Anchor Bay Entertainment</option>
+                                            <option value="Apparition">Apparition</option>
                                             <option value="Artisan">Artisan</option>
                                             <option value="AVCO Embassy Pictures">AVCO Embassy Pictures</option>
                                             <option value="Buena Vista">Buena Vista</option>
@@ -166,12 +175,14 @@
                                             <option value="Dreamworks">Dreamworks</option>
                                             <option value="FilmDistrict">FilmDistrict</option>
                                             <option value="Fine Line Features">Fine Line Features</option>
+                                            <option value="First Independent Pictures">First Independent Pictures</option>
                                             <option value="First Look Pictures">First Look Pictures</option>
                                             <option value="Focus Features">Focus Features</option>
                                             <option value="Freestyle Releasing">Freestyle Releasing</option>
                                             <option value="Gramercy Pictures">Gramercy Pictures</option>
                                             <option value="HBO Video">HBO Video</option>
                                             <option value="Hollywood Pictures">Hollywood Pictures</option>
+                                            <option value="IDP">IDP</option>
                                             <option value="IFC Films">IFC Films</option>
                                             <option value="Image Entertainment">Image Entertainment</option>
                                             <option value="IMAX">IMAX</option>
@@ -185,16 +196,22 @@
                                             <option value="MGM">MGM</option>
                                             <option value="Miramax Films">Miramax Films</option>
                                             <option value="Music Box Films">Music Box Films</option>
+                                            <option value="NBC">NBC</option>
+                                            <option value="Nelson Entertainment">Nelson Entertainment</option>
                                             <option value="New Line Cinema">New Line Cinema</option>
+                                            <option value="New World Video">New World Video</option>
                                             <option value="Newmarket Films LLC">Newmarket Films LLC</option>
                                             <option value="Open Road Films">Open Road Films</option>
                                             <option value="Orion Pictures Corporation">Orion Pictures Corporation</option>
                                             <option value="Overture Films">Overture Films</option>
+                                            <option value="Palm Pictures">Palm Pictures</option>
                                             <option value="Paramount">Paramount</option>
                                             <option value="Picturehouse">Picturehouse</option>
                                             <option value="PolyGram">PolyGram</option>
                                             <option value="Radius-TWC">Radius-TWC</option>
+                                            <option value="Regent Releasing">Regent Releasing</option>
                                             <option value="Relativity Media">Relativity Media</option>
+                                            <option value="Rialto Pictures">Rialto Pictures</option>
                                             <option value="RKO">RKO</option>
                                             <option value="Roadside Attractions">Roadside Attractions</option>
                                             <option value="Rogue Pictures">Rogue Pictures</option>
@@ -206,6 +223,7 @@
                                             <option value="The Weinstein Company">The Weinstein Company</option>
                                             <option value="ThinkFilm">ThinkFilm</option>
                                             <option value="Touchstone Pictures">Touchstone Pictures</option>
+                                            <option value="Trimark Pictures">Trimark Pictures</option>
                                             <option value="TriStar Pictures">TriStar Pictures</option>
                                             <option value="Turner Entertainment">Turner Entertainment</option>
                                             <option value="United Artists Pictures">United Artists Pictures</option>

@@ -17,3 +17,13 @@ label {
   padding-left: 2in;
   padding-right: 2in;
 }
+
+.input-dictionary {
+  font-size: large;
+  font-weight: bold;
+  border-style: groove;
+  border-color: #ffffff;
+  background-color: #e3bb5c;
+  padding-left: 2in;
+  padding-right: 2in;
+}
