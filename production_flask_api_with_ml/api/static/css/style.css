@@ -7,3 +7,13 @@ label {
     font-size: 20px;
   font-weight: bold;
 }
+
+.result {
+  font-size: xx-large;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #ffffff;
+  background-color: #e3bb5c;
+  padding-left: 2in;
+  padding-right: 2in;
+}

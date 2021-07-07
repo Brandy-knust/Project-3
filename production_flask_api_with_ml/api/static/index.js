@@ -19,6 +19,7 @@ function runEnter() {
     // var DiabetesPedigreeFunction = d3.select("#DiabetesPedigreeFunction").property("value");
     // var Age = d3.select("#Age").property("value");
     d3.json(`/predict/${genre}/${director}/${content_rating}/${production_company}/${runtime}`).then(d => {
+        console.log(`this is the route /predict/${genre}/${director}/${content_rating}/${production_company}/${runtime}`)
         d3.select("#result").text(`the model predicts your ${d}`);
         predictedResult = d;
     });

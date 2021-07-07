@@ -1,3 +1,4 @@
+from typing_extensions import runtime
 import requests
 
 from flask import Flask, json, request
@@ -40,6 +41,7 @@ else:
     engine=sqlalchemy.create_engine('sqlite:///data.db')
 
 movie_directors_df = pd.read_csv('Resources/movie_director_df(1).csv')
+#dim_df.csv = pd.read_csv('Resources/dim_df.csv')
 
 model = load(open('model.pkl', 'rb'))
 #X_scaler = load(open('scaler.pkl', 'rb'))
@@ -63,19 +65,27 @@ def getDirectors():
 
 @app.route("/predict", methods=['POST'])
 def handlePredict():
-    return request.form
+#    return request.form
+    print(request.form)
+    return render_template("index.html", result = 67) 
+    
 
+# @app.route("/predict",  methods=['POST'])
+# def predict():
+#     input_dictionary = request.form
+#     # genre = input_dictionary["Genre"]
+#     # production_company = input_dictionary["Production Company"]
+#     # content_rating = input_dictionary["rating"]
+#     # runtime = input_dictionary["runtime"]
+#     # new_data = np.array([[genre,director,content_rating,production_company,runtime]])
+#     app.logger.info(f'new_data : {new_data}')
+#     return jsonify(model.predict(new_data))
 
-@app.route("/predict/<Director>/<genre>/<runtime>/<production_company>/<content_rating>")
-def predict(Director,genre,runtime,production_company,content_rating):
-    new_data = np.array([[Director,genre,runtime,production_company,content_rating]])
-    return jsonify(target_names[model.predict(X_scaler.transform(new_data))[0]])
-
-@app.route("/add/<Director>/<genre>/<runtime>/<production_ompany>/<content_rating>/<outcome>")
-def add_data(Director,genre,runtime,production_company,content_rating,outcome):
-    sql_str = f"INSERT INTO dataset VALUES ({Director},{genre},{runtime},{production_company},{content_rating},{outcome});"
-    engine.execute(sql_str)
-    return jsonify("success")
+# @app.route("/add/<Director>/<genre>/<runtime>/<production_ompany>/<content_rating>/<outcome>")
+# def add_data(Director,genre,runtime,production_company,content_rating,outcome):
+#     sql_str = f"INSERT INTO dataset VALUES ({Director},{genre},{runtime},{production_company},{content_rating},{outcome});"
+#     engine.execute(sql_str)
+#     return jsonify("success")
 
 # @app.route("/train")
 # def train():
