@@ -2,6 +2,8 @@
 
 # Prediction of Audience Score by Using Machine Learning
 
+![demo.png](image/demo.png)
+
 ## About the Model:
 This machine learning model predicts the expected audience rating/score from "www.rottentomatoes.com" that a potential movie will obtain after selecting:
 * Up to three different movie directors,
@@ -18,11 +20,13 @@ This model could be used for:
 * Create permutations of possible directors and production companies to guarantee higher level of audience rating.
 * "Just for fun". 
 
+---
+
 <b>Team Members:</b>
-Brandy Knust
-Tyler Nguyen
-Adolfo Prieto
-Oscar Sanguino
+* Brandy Knust
+* Tyler Nguyen
+* Adolfo Prieto
+* Oscar Sanguino
 
 <b>Notes</b>:
 * The data set used contains more than 4000 movie titles from the last 80+ years.
@@ -30,7 +34,6 @@ Oscar Sanguino
 * HTML file is found in the "production_flask_api_with_ml" directory. 
 * In oder to download the data and feed the html and *.js file the app.py file must be run first. This file is found in the "production_flask_api_with_ml" directory
 * Model which was saved as "model.h5" can be used in other projects related to our project.
-
 
 <b>Rough Breakdown of Tasks:</b>
 * Data identification
