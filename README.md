@@ -18,6 +18,8 @@ This model could be used for:
 * Create permutations of possible directors and production companies to guarantee higher level of audience rating.
 * "Just for fun". 
 
+---
+
 <b>Team Members:</b>
 Brandy Knust
 Tyler Nguyen
@@ -30,7 +32,6 @@ Oscar Sanguino
 * HTML file is found in the "production_flask_api_with_ml" directory. 
 * In oder to download the data and feed the html and *.js file the app.py file must be run first. This file is found in the "production_flask_api_with_ml" directory
 * Model which was saved as "model.h5" can be used in other projects related to our project.
-
 
 <b>Rough Breakdown of Tasks:</b>
 * Data identification
