@@ -1,0 +1,97 @@
+[Source]
+Type=4
+TypeName=Microsoft Excel (*.xls?)
+Server=
+Port=0
+Username=620365077603760F7F03
+Password=
+Database=C:\Users\brand\repos\Homework\Project-3old\rotten_tomatoes_movies_sql.xlsx
+Schema=
+Driver=
+DriverFileName=
+Engine=
+Charset=
+ConnStr=Provider=%drv;Extended Properties="Excel %ver%type;HDR=%hdr;%imex";Data Source=%db;
+ConnMethod=0
+FetchSize=10000
+[Source.Security]
+UseSSL=0
+SSLMode=
+UseAuthentication=0
+SecureAuth=1
+UseEncryptData=0
+ClientKey=
+ClientCert=
+CACert=
+CAPath=
+Cipher=
+CRL=
+UseDistNames=0
+CN=
+L=
+ST=
+OU=
+O=
+C=
+SysDB=
+DBPassword=
+MDF=
+[Destation]
+Type=304
+TypeName=SQLite
+Server=
+Port=0
+Username=620365077603760F7F03
+Password=
+Database=C:\Users\brand\repos\Homework\Project-3\production_flask_api_with_ml\api\rotten_tomatoes_movies_sql.db
+Schema=
+Driver=
+DriverFileName=
+Engine=
+Charset=
+ConnStr=Provider=MSDASQL;Driver={SQLite Driver};
+ConnMethod=0
+UCF='\ "|=+*&^@!`~:;,.?/<>()[]{}
+UCT=_
+BatchCount=2000
+[Options]
+OverwriteDatabase=0
+[Destation.Security]
+UseSSL=0
+SSLMode=
+UseAuthentication=0
+SecureAuth=1
+UseEncryptData=0
+ClientKey=
+ClientCert=
+CACert=
+CAPath=
+Cipher=
+CRL=
+UseDistNames=0
+CN=
+L=
+ST=
+OU=
+O=
+C=
+SysDB=
+DBPassword=
+MDF=
+[Tables]
+Count=1
+SName 0=rotten_tomatoes_movies_sql$
+SType 0=1
+DName 0=rotten_tomatoes_movies_sql
+TDescr 0=
+OnlyStruct 0=0
+TableIndex 0=1
+ForeignKey 0=1
+MakeNameUnique 0=0
+TO 0=3
+Name Case 0=0
+CopyAutoIncrement 0=1
+Where 0=
+[Field Map 0]
+MapCount=0
+UseFieldMap=0

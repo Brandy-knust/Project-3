@@ -42,8 +42,8 @@
                         </a>
                         <nav id="primary-nav" class="dropdown cf">
                             <ul class="dropdown menu">
-                                <li class='active'><a href="#">Rating</a></li>
-                                <li><a href="#">Similar Movies</a>
+                                <li class='active'><a href="index.html">Rating</a></li>
+                                <li><a href="index1.html">Similar Movies</a>
                                     <!-- <ul class="sub-menu"> -->
                                         <!-- <li><a href="#">Most Visited 1</a>
                                             <ul class="sub-menu">
@@ -88,8 +88,8 @@
                 <div class="col-md-10 col-md-offset-1">
                     <div class="banner-caption">
                         <div class="line-dec"></div>
-                        <h2>Find Out What Your Next Movie Will be Rated!</h2>
-                        <span>Just enter your Director, Production Company, runtime, genre, and rating.</span>
+                        <h2>Would you like to find similar movies?</h2>
+                        <span>Just enter Director, Production Company, at least 2 actors, runtime, genre, and rating from your favorite movie.</span>
                         <div class="blue-button">
                             <a class="scrollTo" data-scrollTo="popular" href="#">Discover More</a>
                         </div>
@@ -99,7 +99,7 @@
                             <div class="row">
                                 <div class="col-md-3 second-item">
                                     <fieldset>
-                                        <select required name='rating' onchange='this.form.()'>
+                                        <select required name='rating'>
                                             <option value="">Select rating...</option>
                                             <option value="R">R</option>
                                             <option value="PG-13">PG-13</option>
@@ -112,7 +112,7 @@
                                 </div>
                                 <div class="col-md-3 third-item">
                                     <fieldset>
-                                        <select required name='Genre' onchange='this.form.()'>
+                                        <select required name='Genre'>
                                             <option value="">Select genre...</option>
                                             <option value="Action & Adventure">Action & Adventure</option>
                                             <option value="Animation">Animation</option>
@@ -140,7 +140,7 @@
                                 </div>
                                 <div class="col-md-3 fifth-item">
                                     <fieldset>
-                                        <select required name='Production Company' onchange='this.form.()'>
+                                        <select required name='Production Company'>
                                             <option value="">Select Production <br>Company...</option>
                                             <option value="20th Century Fox">20th Century Fox</option>
                                             <option value="A24">A24</option>
@@ -220,7 +220,7 @@
                                 </div>
                                 <div class="col-md-3 fourth-item">
                                     <fieldset>
-                                        <select required name='runtime' onchange='this.form.()'>
+                                        <select required name='runtime'>
                                             <option value="">Select runtime...</option>
                                             <option value="<=90 minutes"><=90 </option>
                                             <option value="90-120 minutes">90-120</option>
@@ -246,6 +246,13 @@
                                     </fieldset> -->
                                     
                                 <!-- </div> -->
+                            </div>
+                            <div class='row' id='actor'>
+                                <div class="col-md-12 sixth-item">
+                                    <fieldset>
+                                        <input required name='actor'>
+                                            <input value="">input actor...</input>
+                                            <input value="">input actor...</input>                               
                             </div>
                                         <button type="submit" id="form-submit" class="btn">Search Now</button>
                                     

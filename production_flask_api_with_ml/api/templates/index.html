@@ -35,15 +35,16 @@
                 <div class="row">
                     <div class="col-md-12">
                         <button id="primary-nav-button" type="button">Menu</button>
-                        <a href="index.html">
+                        <a href="/">
                             <div class="logo">
-                            <img src="static/img/movies_logo.jpg" alt="Venue Logo">
+                                <button id='logo-button' type='reset' value='Reset'><img src="static/img/movies_logo.jpg"></button>
+                                       
                             </div>
                         </a>
                         <nav id="primary-nav" class="dropdown cf">
                             <ul class="dropdown menu">
-                                <li class='active'><a href="#">Rating</a></li>
-                                <li><a href="#">Similar Movies</a>
+                                <li class='active'><a href="/">Rating</a></li>
+                                <li><a href="/similar">Similar Movies</a>
                                     <!-- <ul class="sub-menu"> -->
                                         <!-- <li><a href="#">Most Visited 1</a>
                                             <ul class="sub-menu">
@@ -94,18 +95,19 @@
                             <h2>Genre: {{result.input.Genre}}</h2>
                             <h2>Produciton Company : {{result.input['Production Company']}}</h2>
                             <h2>Run Time : {{result.input.runtime}}</h2>
-                            <h2>Director : {{result.director}}</h2>
+                            <h2>Director : {{result.director_list}}</h2>
                             <!-- <h2>{{result.input.director}}</h2>                             -->
                         </div>
                         <div class = 'result'>
                             <h1>Predicted Audience Score = {{result.score}}</h1>
+                            <a href="/"><button type="reset" id="form-submit" class="btn">New Search</button></a>
                         </div>
                         {% else %} 
                         <h2>Find Out What Your Next Movie Will be Rated!</h2>
                         <span>Just enter your Director, Production Company, runtime, genre, and rating.</span>
                         {% endif %}
                         <div class="blue-button">
-                            <a class="scrollTo" data-scrollTo="popular" href="#">Discover More</a>
+                            <a class="scrollTo" data-scrollTo="popular" href="/discover">Discover More</a>
                         </div>
                     </div>
                     
@@ -159,7 +161,7 @@
                                     <fieldset>
                                         <select required name='Production Company'>
                                             <option value="">Select Production <br>Company...</option>
-                                            <option value="20th Century Fox">20th Century Fox</option>
+                                            <option value="20thCenturyFox">20thCenturyFox</option>
                                             <option value="A24">A24</option>
                                             <option value="American International Picture">American International Picture</option>
                                             <option value="Anchor Bay Entertainment">Anchor Bay Entertainment</option>
@@ -239,7 +241,7 @@
                                     <fieldset>
                                         <select required name='runtime'>
                                             <option value="">Select runtime...</option>
-                                            <option value="<=90 minutes"><=90 </option>
+                                            <option value="<=90 minutes"><=90</option>
                                             <option value="90-120 minutes">90-120</option>
                                             <option value=">=120 minutes">>=120</option>
                                         </select>

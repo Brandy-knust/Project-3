@@ -58,6 +58,10 @@ def hello_world():
 def home():
     return render_template("index.html")
 
+@app.route("/discover")
+def discover():
+    return render_template("discover.html")
+
 @app.route('/directors')
 def getDirectors():
     data_list = list(movie_directors_df.columns)
@@ -71,6 +75,10 @@ def getDirectors():
 #     print(request.form)
 #     return render_template("index.html", result = 67) 
     
+@app.route("/similar")
+def similar():
+    return render_template("index1.html")
+
 
 @app.route("/predict",  methods=['POST'])
 def predict():
@@ -96,11 +104,14 @@ def predict():
 
     app.logger.info(f'data : {data}')
 
-    # director_list = input_dictionary.keys()[4:]
+    director_list = []
     model_result = model.predict(dummy_list.reshape(1,-1))
     app.logger.info(model_result)
-    # rebuilt_dict = {"rating" : input_dictionary[0], "genre" : input_dictionary[1], "prod_co": input_dictionary[2], "run_time" : input_dictionary[3], "director": director_list}
-    result= {'input':input_dictionary,'score':model_result[0][0]}
+    non_director_keys = ['Genre', 'runtime', 'Production Company', 'rating']
+    for key in input_dictionary.keys():
+        if key not in non_director_keys:
+            director_list.append(key)
+    result= {'input':input_dictionary, 'director_list': director_list, 'score':model_result[0][0]}
     # result= {'input':input_dictionary[:4],'score':model_result[0][0], 'director': director_list}
     app.logger.info(result)
     #return jsonify(model.predict(new_data))

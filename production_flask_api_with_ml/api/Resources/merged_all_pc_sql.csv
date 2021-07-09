@@ -1,7 +1,11 @@
 ﻿movie_title,content_rating,runtime,production_company,audience_rating
+8 1/2,NR,135,Cinerez,92
+[Rec],R,78,Odeon Sky Filmworks,82
 *batteries not included,G,106,Universal Pictures,64
+10 Cloverfield Lane,PG-13,103,Bad Robot Productions,79
 10 Things I Hate About You,PG-13,97,Buena Vista,69
 "10,000 B.C.",PG-13,109,Warner Bros.,37
+100 Girls,R,95,Dream Entertainment,50
 101 Dalmatians(s),G,79,Buena Vista,76
 101 Dalmatians(l),G,103,Buena Vista,40
 102 Dalmatians,G,100,Buena Vista,32
@@ -26,6 +30,7 @@
 2001: A Space Odyssey,G,139,Warner Bros.,89
 2010,PG,114,MGM,61
 2012,PG-13,158,Sony,47
+2016: Obama's America,PG,87,Rocky Mountain Pictures,73
 21,PG-13,122,Sony,66
 21 And Over,R,93,Relativity Media,46
 21 Grams,R,125,Universal Pictures,86
@@ -64,6 +69,7 @@
 9 1/2 Weeks,R,113,MGM,56
 9 to 5,PG,110,20thCenturyFox,74
 A Beautiful Mind,PG-13,135,Universal Pictures,93
+A Boy Named Charlie Brown,G,85,Cinema Center 100 Productions,86
 A Bridge Too Far,PG,179,United Artists Pictures,86
 A Bronx Tale,R,122,HBO Video,93
 A Bug's Life,G,96,Buena Vista,73
@@ -1198,10 +1204,8 @@ Fracture,R,113,New Line Cinema,73
 Frailty,R,99,Lionsgate Films,78
 Frank Miller's Sin City: A Dame to Kill For,R,101,Dimension Films,44
 Frankenweenie,PG,87,Disney,70
-Freaky Friday,G,95,Disney,57
-Freaky Friday,PG,96,Buena Vista,57
-Freaky Friday,G,95,Disney,57
-Freaky Friday,PG,96,Buena Vista,57
+Freaky Friday(1976),G,95,Disney,57
+Freaky Friday(2003),PG,96,Buena Vista,57
 Fred Claus,PG,116,Warner Bros.,45
 Freddy Got Fingered,R,87,20thCenturyFox,56
 Freddy vs. Jason,R,97,New Line Cinema,50
@@ -1217,10 +1221,8 @@ Frida,R,123,Miramax Films,85
 Friday,R,91,New Line Cinema,91
 Friday After Next,R,82,New Line Cinema,75
 Friday Night Lights,PG-13,117,Universal Pictures,85
-Friday the 13th,R,95,Paramount,61
-Friday the 13th,R,97,Warner Bros.,46
-Friday the 13th,R,95,Paramount,61
-Friday the 13th,R,97,Warner Bros.,46
+Friday the 13th(2009),R,95,Paramount,61
+Friday the 13th(1980),R,97,Warner Bros.,46
 Friday the 13th - The Final Chapter,R,91,Paramount,51
 Friday the 13th Part 2,R,87,Paramount,48
 Friday the 13th Part 3,R,92,Paramount,42
@@ -1232,10 +1234,8 @@ Fried Green Tomatoes,PG-13,130,Universal Pictures,91
 Friends With Benefits,R,109,Sony,65
 Friends With Kids,R,100,Roadside Attractions,49
 Friends With Money,R,88,Sony,40
-Fright Night,R,106,Sony,76
-Fright Night,R,106,Disney,59
-Fright Night,R,106,Sony,76
-Fright Night,R,106,Disney,59
+Fright Night(1985),R,106,Sony,76
+Fright Night(2011),R,106,Disney,59
 From Dusk Till Dawn,R,107,Dimension Films,76
 From Dusk Till Dawn 2: Texas Blood Money,R,88,Dimension Films,20
 From Hell,R,121,20thCenturyFox,66
@@ -1295,10 +1295,8 @@ Ghost Rider: Spirit of Vengeance,PG-13,96,Sony,31
 Ghost Ship,R,91,Warner Bros.,37
 Ghost Town,PG-13,103,Dreamworks,60
 Ghost World,R,111,United Artists Pictures,84
-Ghost in the Shell,R,85,Palm Pictures,89
-Ghost in the Shell,PG-13,107,Paramount,51
-Ghost in the Shell,R,85,Palm Pictures,89
-Ghost in the Shell,PG-13,107,Paramount,51
+Ghost in the Shell(1995),R,85,Palm Pictures,89
+Ghost in the Shell(2017),PG-13,107,Paramount,51
 Ghostbusters,PG-13,117,Sony,50
 Ghostbusters (1984 Original),PG,107,Columbia Pictures,88
 Ghostbusters 2,PG,108,Sony,61
@@ -1320,10 +1318,8 @@ Goal! The Dream Begins (Goal!: The Impossible Dream),PG,121,Buena Vista,77
 God Bless America,R,107,Magnolia Pictures,68
 Gods Of Egypt,PG-13,121,Lionsgate Films,37
 Godsend,PG-13,102,Lionsgate Films,20
-Godzilla,PG-13,138,Sony,28
-Godzilla,PG-13,123,Warner Bros.,66
-Godzilla,PG-13,138,Sony,28
-Godzilla,PG-13,123,Warner Bros.,66
+Godzilla(1998),PG-13,138,Sony,28
+Godzilla(2014),PG-13,123,Warner Bros.,66
 Godzilla: King of the Monsters,PG-13,132,Warner Bros.,83
 Going the Distance,R,98,New Line Cinema,52
 GoldenEye,PG-13,130,MGM,83
@@ -1384,25 +1380,21 @@ Hackers,PG-13,104,MGM,68
 Hacksaw Ridge,R,139,Summit Entertainment,91
 "Hail, Caesar!",PG-13,106,Universal Pictures,44
 Hair,PG,121,United Artists Pictures,88
-Hairspray,PG,90,New Line Cinema,80
-Hairspray,PG,115,New Line Cinema,84
-Hairspray,PG,90,New Line Cinema,80
-Hairspray,PG,115,New Line Cinema,84
+Hairspray(1988),PG,90,New Line Cinema,80
+Hairspray(2007),PG,115,New Line Cinema,84
 Half Baked,R,84,Universal Pictures,81
 Half Nelson,R,106,ThinkFilm,83
 Hall Pass,R,106,Warner Bros.,40
-Halloween,R,110,MGM,59
-Halloween,R,110,MGM,59
+Halloween(1978),R,110,MGM,59
+Halloween(2007),R,110,MGM,59
 Halloween 4: The Return of Michael Myers,R,88,20thCenturyFox,53
 Halloween H20,R,85,Miramax Films,49
 Halloween II,R,92,Universal Pictures,63
 Halloween III: Season of the Witch,R,98,MCA Universal Home Video,27
 Halloween: Resurrection,R,89,Dimension Films,25
 Hamburger Hill,R,110,Vestron Pictures,72
-Hamlet,PG-13,242,Sony,90
-Hamlet,PG,135,Warner Bros.,59
-Hamlet,PG-13,242,Sony,90
-Hamlet,PG,135,Warner Bros.,59
+Hamlet(1996),PG-13,242,Sony,90
+Hamlet(1990),PG,135,Warner Bros.,59
 Hancock,PG-13,92,Columbia Pictures,59
 Hang 'em High,PG-13,114,United Artists Pictures,73
 Hanna,PG-13,111,Focus Features,66
@@ -1464,10 +1456,8 @@ Help!,G,92,United Artists Pictures,86
 Her,R,119,Warner Bros.,82
 Herbie Rides Again,G,88,Disney,53
 Herbie: Fully Loaded,G,100,Buena Vista,38
-Hercules,G,92,Buena Vista,76
-Hercules,PG-13,97,Paramount,48
-Hercules,G,92,Buena Vista,76
-Hercules,PG-13,97,Paramount,48
+Hercules(1997),G,92,Buena Vista,76
+Hercules(2014),PG-13,97,Paramount,48
 Here Comes the Boom,PG,104,Sony,65
 Hereafter,PG-13,129,Warner Bros.,38
 Hero,PG-13,93,Miramax Films,87
@@ -1539,10 +1529,8 @@ House at the End of the Street,PG-13,101,Relativity Media,41
 House of 1000 Corpses,R,88,Lionsgate Films,65
 House of Flying Daggers,PG-13,119,Sony,82
 House of Sand and Fog,R,126,Dreamworks,83
-House of Wax,PG,88,Warner Bros.,72
-House of Wax,R,107,Warner Bros.,42
-House of Wax,PG,88,Warner Bros.,72
-House of Wax,R,107,Warner Bros.,42
+House of Wax(1953),PG,88,Warner Bros.,72
+House of Wax(2005),R,107,Warner Bros.,42
 House of the Dead,R,90,Artisan,10
 House on Haunted Hill,R,96,Warner Bros.,42
 Housesitter,PG,100,MCA Universal Home Video,47
@@ -1787,15 +1775,9 @@ Killing Them Softly,R,97,The Weinstein Company,44
 Kindergarten Cop,PG-13,111,MCA Universal Home Video,52
 King Arthur,PG-13,126,Buena Vista,59
 King Arthur: Legend Of The Sword,PG-13,126,Warner Bros.,69
-King Kong,G,100,RKO,86
-King Kong,PG,134,Paramount,31
-King Kong,PG-13,187,Universal Pictures,50
-King Kong,G,100,RKO,86
-King Kong,PG,134,Paramount,31
-King Kong,PG-13,187,Universal Pictures,50
-King Kong,G,100,RKO,86
-King Kong,PG,134,Paramount,31
-King Kong,PG-13,187,Universal Pictures,50
+King Kong(1933),G,100,RKO,86
+King Kong(1976),PG,134,Paramount,31
+King Kong(2005),PG-13,187,Universal Pictures,50
 Kingdom of Heaven,R,145,20thCenturyFox,72
 Kingpin,PG-13,113,MGM,69
 Kingsman: The Golden Circle,R,141,20thCenturyFox,64
@@ -1863,10 +1845,8 @@ Leaving Las Vegas,R,111,United Artists Pictures,85
 Lee Daniels' The Butler,PG-13,132,The Weinstein Company,78
 Legally Blonde,PG-13,96,MGM,72
 "Legally Blonde 2 - Red, White & Blonde",PG-13,94,MGM,43
-Legend,PG,89,Universal Pictures,73
-Legend,R,131,Universal Pictures,59
-Legend,PG,89,Universal Pictures,73
-Legend,R,131,Universal Pictures,59
+Legend(1985),PG,89,Universal Pictures,73
+Legend(2015),R,131,Universal Pictures,59
 Legend of the Guardians: The Owls of Ga'Hoole,PG,91,Warner Bros.,63
 Legends of the Fall,R,134,Sony,87
 Legion,R,104,Screen Gems,31
@@ -1885,8 +1865,8 @@ Letters from Iwo Jima,R,141,Warner Bros.,86
 Letters to Juliet,PG,105,Summit Entertainment,62
 Licence To Kill,PG-13,133,United Artists Pictures,61
 License to Wed,PG-13,91,Warner Bros.,53
-Life,R,108,Universal Pictures,77
-Life,R,108,Universal Pictures,77
+Life(1999),R,108,Universal Pictures,77
+Life(2017),R,108,Universal Pictures,77
 Life Is Beautiful (La Vita ?┐ bella),PG-13,122,Miramax Films,96
 Life as We Know It,PG-13,113,Warner Bros.,61
 Life as a House,R,124,New Line Cinema,88
@@ -1929,10 +1909,8 @@ Look Who's Talking Now,PG-13,97,Sony,29
 Looney Tunes: Back in Action,PG,91,Warner Bros.,50
 Looper,R,119,Sony,82
 Lord of War,R,122,Lionsgate Films,84
-Lord of the Flies,R,90,Nelson Entertainment,52
-Lord of the Flies,NR,91,Criterion Collection,63
-Lord of the Flies,R,90,Nelson Entertainment,52
-Lord of the Flies,NR,91,Criterion Collection,63
+Lord of the Flies(1989),R,90,Nelson Entertainment,52
+Lord of the Flies(1963),NR,91,Criterion Collection,63
 Lords of Dogtown,PG-13,106,Sony,81
 Loser,PG-13,95,Sony,35
 Lost Highway,R,135,Universal Pictures,87
@@ -1987,8 +1965,8 @@ Mallrats,R,95,MCA Universal Home Video,82
 Mama,PG-13,100,Universal Pictures,55
 Mamma Mia!,PG-13,109,Universal Pictures,66
 Man of Steel,PG-13,143,Warner Bros.,75
-Man of the House,PG-13,100,Columbia Pictures,46
-Man of the House,PG-13,100,Columbia Pictures,46
+Man of the House(1995),PG-13,100,Columbia Pictures,46
+Man of the House(2005),PG-13,100,Columbia Pictures,46
 Man of the Year,PG,115,Universal Pictures,45
 Man on Fire,R,145,20thCenturyFox,89
 Man on Wire,PG-13,90,Magnolia Pictures,87
@@ -2078,10 +2056,8 @@ Mindhunters,R,106,Miramax Films,57
 Minions,PG,91,Universal Pictures,49
 Minority Report,PG-13,144,Dreamworks,80
 Miracle,PG,135,Buena Vista,90
-Miracle on 34th Street,NR,96,20thCenturyFox,87
-Miracle on 34th Street,PG,114,20thCenturyFox,62
-Miracle on 34th Street,NR,96,20thCenturyFox,87
-Miracle on 34th Street,PG,114,20thCenturyFox,62
+Miracle on 34th Street(1947)),NR,96,20thCenturyFox,87
+Miracle on 34th Street(1994),PG,114,20thCenturyFox,62
 Mirror Mirror,PG,106,Relativity Media,45
 MirrorMask,PG,96,Samuel Goldwyn Films,80
 Mirrors,R,112,Buena Vista,44
@@ -2139,7 +2115,7 @@ Mr. 3000,PG-13,102,Buena Vista,30
 Mr. Bean's Holiday,PG,88,Universal Pictures,49
 Mr. Brooks,R,121,MGM,76
 Mr. Deeds,PG-13,96,Columbia Pictures,59
-Mr. Holland's Opus,PG,142,,84
+Mr. Holland's Opus,PG,142,Buena Vista,84
 Mr. Holmes,PG,105,Roadside Attractions,70
 Mr. Magoo,PG,87,Disney,24
 Mr. Magorium's Wonder Emporium,G,95,20thCenturyFox,55
@@ -2153,8 +2129,8 @@ Mr. Smith Goes to Washington,NR,125,Sony,94
 Mr. Woodcock,PG-13,87,New Line Cinema,32
 Mrs. Doubtfire,PG-13,125,20thCenturyFox,77
 Mrs. Henderson Presents,R,103,The Weinstein Company,72
-Much Ado About Nothing,PG-13,109,Roadside Attractions,77
-Much Ado About Nothing,PG-13,109,Roadside Attractions,77
+Much Ado About Nothing(1993),PG-13,109,Roadside Attractions,77
+Much Ado About Nothing(2013),PG-13,109,Roadside Attractions,77
 Mud,PG-13,130,Lionsgate Films,80
 Mulan,G,88,Buena Vista,85
 Mulan II,G,79,Disney,42
@@ -2237,8 +2213,8 @@ Night Watch,R,115,20thCenturyFox,72
 Night at the Museum,PG,108,20thCenturyFox,67
 Night at the Museum 2: Battle of the Smithsonian,PG,105,20thCenturyFox,47
 Night at the Museum: Secret of the Tomb,PG,97,20thCenturyFox,57
-Night of the Living Dead,R,89,Columbia Pictures,68
-Night of the Living Dead,R,89,Columbia Pictures,68
+Night of the Living Dead(1968),R,89,Columbia Pictures,68
+Night of the Living Dead(1990),R,89,Columbia Pictures,68
 Nightcrawler,R,117,Open Road Films,85
 Nights in Rodanthe,PG-13,96,Warner Bros.,52
 Nim's Island,PG,94,20thCenturyFox,46
@@ -2288,11 +2264,9 @@ Okuribito (Departures),PG-13,130,Regent Releasing,92
 Old Dogs,PG,88,Disney,44
 Old School,R,90,Dreamworks,86
 Old Yeller,G,83,Buena Vista,79
-Oldboy,R,118,Tartan Films,94
-Oldboy,R,103,FilmDistrict,37
-Oldboy,R,118,Tartan Films,94
-Oldboy,R,103,FilmDistrict,37
-Oliver & Company,G,72,,62
+Oldboy(2005),R,118,Tartan Films,94
+Oldboy(2013),R,103,FilmDistrict,37
+Oliver & Company,G,72,Buena Vista,62
 Oliver!,G,146,Sony,81
 Olympus Has Fallen,R,120,FilmDistrict,66
 On Deadly Ground,R,101,Warner Bros.,34
@@ -2363,10 +2337,8 @@ Parenthood,PG-13,124,MCA Universal Home Video,76
 Paris Je T'aime,R,120,First Look Pictures,84
 Parker,R,118,FilmDistrict,48
 Passenger 57,R,83,Warner Bros.,38
-Passengers,PG-13,92,Sony,35
-Passengers,PG-13,111,Columbia Pictures,63
-Passengers,PG-13,92,Sony,35
-Passengers,PG-13,111,Columbia Pictures,63
+Passengers(2008),PG-13,92,Sony,35
+Passengers(2016),PG-13,111,Columbia Pictures,63
 Patch Adams,PG-13,115,Universal Pictures,73
 Pathfinder,R,99,20thCenturyFox,36
 Pathology,R,93,MGM,39
@@ -2396,14 +2368,10 @@ Persepolis,PG-13,95,Sony,92
 Persona,NR,81,Criterion Collection,94
 Pet Sematary,R,99,Paramount,59
 Pet Sematary Two,R,100,Paramount,30
-Pete's Dragon,G,134,Buena Vista,60
-Pete's Dragon,PG,103,Disney,72
-Pete's Dragon,G,134,Buena Vista,60
-Pete's Dragon,PG,103,Disney,72
-Peter Pan,G,76,Disney,80
-Peter Pan,PG,113,Universal Pictures,74
-Peter Pan,G,76,Disney,80
-Peter Pan,PG,113,Universal Pictures,74
+Pete's Dragon(1977),G,134,Buena Vista,60
+Pete's Dragon(2016),PG,103,Disney,72
+Peter Pan(1953),G,76,Disney,80
+Peter Pan(2003),PG,113,Universal Pictures,74
 Phantom of the Opera,NR,92,MCA Universal Home Video,77
 Phat Girlz,PG-13,99,20thCenturyFox,65
 Phenomenon,PG,124,Disney,59
@@ -2432,10 +2400,8 @@ Planes,PG,92,Disney,49
 "Planes, Trains and Automobiles",R,92,Paramount,87
 Planet 51,PG,91,Sony,40
 Planet Terror (Grindhouse Presents: Robert Rodriguez's Planet Terror),R,86,The Weinstein Company,77
-Planet of the Apes,G,112,20thCenturyFox,87
-Planet of the Apes,PG-13,120,20thCenturyFox,27
-Planet of the Apes,G,112,20thCenturyFox,87
-Planet of the Apes,PG-13,120,20thCenturyFox,27
+Planet of the Apes(1968),G,112,20thCenturyFox,87
+Planet of the Apes(2001),PG-13,120,20thCenturyFox,27
 Platoon,R,120,Orion Pictures Corporation,93
 Pleasantville,PG-13,123,New Line Cinema,79
 Pocahontas,G,87,Buena Vista,64
@@ -2451,15 +2417,13 @@ Police Academy 4 - Citizens on Patrol,PG,87,Warner Bros.,38
 Police Academy 5: Assignment Miami Beach,PG,89,Warner Bros.,33
 Police Academy 6 - City Under Siege,PG,84,Warner Bros.,28
 Police Academy 7: Mission to Moscow,PG,83,Warner Bros.,22
-Poltergeist,PG,114,MGM,79
-Poltergeist,PG-13,93,20thCenturyFox,22
-Poltergeist,PG,114,MGM,79
-Poltergeist,PG-13,93,20thCenturyFox,22
+Poltergeist(1982),PG,114,MGM,79
+Poltergeist(2015),PG-13,93,20thCenturyFox,22
 Pompeii,PG-13,105,Sony,34
 Ponyo,G,100,Disney,83
 Pootie Tang,PG-13,81,Paramount,63
 Popeye,PG,114,Paramount,39
-Porco Rosso (Kurenai no buta),PG,90,,87
+Porco Rosso (Kurenai no buta),PG,90,Disney,87
 Poseidon,PG-13,98,Warner Bros.,43
 Post Grad,PG-13,89,20thCenturyFox,27
 Powder,PG-13,111,Hollywood Pictures,69
@@ -2495,10 +2459,8 @@ Prom Night,PG-13,88,Screen Gems,38
 Prometheus,R,123,20thCenturyFox,68
 Proof,PG-13,100,Miramax Films,59
 Proof of Life,R,135,Warner Bros.,43
-Psycho,R,109,Universal Pictures,28
-Psycho,R,109,Paramount,95
-Psycho,R,109,Universal Pictures,28
-Psycho,R,109,Paramount,95
+Psycho(1998),R,109,Universal Pictures,28
+Psycho(1960),R,109,Paramount,95
 Public Enemies,R,140,Universal Pictures,59
 Pulp Fiction,R,153,Miramax Films,96
 Pulse,PG-13,85,The Weinstein Company,27
@@ -2547,10 +2509,8 @@ Rebel Without a Cause,PG-13,111,Warner Bros.,88
 Rebound,PG,83,20thCenturyFox,38
 Red,PG-13,110,Summit Entertainment,72
 Red 2,PG-13,116,Lionsgate Films,63
-Red Dawn,PG-13,114,MGM,65
-Red Dawn,PG-13,93,FilmDistrict,51
-Red Dawn,PG-13,114,MGM,65
-Red Dawn,PG-13,93,FilmDistrict,51
+Red Dawn(1984),PG-13,114,MGM,65
+Red Dawn(2012),PG-13,93,FilmDistrict,51
 Red Dragon,R,119,Universal Pictures,74
 Red Eye,PG-13,85,Dreamworks,64
 Red Heat,R,103,Live Home Video,37
@@ -2603,16 +2563,12 @@ Risky Business,R,96,Warner Bros.,72
 Road House,R,112,United Artists Pictures,66
 Road Trip,R,94,Dreamworks,65
 Road to Perdition,R,116,Dreamworks,86
-Robin Hood,G,83,Buena Vista,81
-Robin Hood,PG-13,139,Universal Pictures,58
-Robin Hood,G,83,Buena Vista,81
-Robin Hood,PG-13,139,Universal Pictures,58
+Robin Hood(1973),G,83,Buena Vista,81
+Robin Hood(2010),PG-13,139,Universal Pictures,58
 Robin Hood: Men in Tights,PG-13,102,20thCenturyFox,81
 Robin Hood: Prince of Thieves,PG-13,138,Warner Bros.,72
-RoboCop,R,102,Orion Pictures Corporation,84
-RoboCop,PG-13,117,Sony,49
-RoboCop,R,102,Orion Pictures Corporation,84
-RoboCop,PG-13,117,Sony,49
+RoboCop(1987),R,102,Orion Pictures Corporation,84
+RoboCop(2014),PG-13,117,Sony,49
 RoboCop 3,PG-13,104,MGM,15
 Robocop 2,R,118,MGM,36
 Robot & Frank,PG-13,90,Samuel Goldwyn Films,75
@@ -2668,10 +2624,8 @@ S. Darko: A Donnie Darko Tale,R,103,20thCenturyFox,18
 S.W.A.T.,PG-13,116,Columbia Pictures,52
 SLC Punk,R,97,Sony,89
 Saban's Power Rangers,PG-13,124,Lionsgate Films,65
-Sabrina,G,113,Paramount,89
-Sabrina,PG,127,Paramount,64
-Sabrina,G,113,Paramount,89
-Sabrina,PG,127,Paramount,64
+Sabrina(1954),G,113,Paramount,89
+Sabrina(1995),PG,127,Paramount,64
 Safe,R,95,Lionsgate Films,59
 Safe Haven,PG-13,115,Relativity Media,67
 Safe House,R,115,Universal Pictures,63
@@ -2698,10 +2652,8 @@ Saw V,R,92,Lionsgate Films,52
 Saw VI,R,91,Lionsgate Films,55
 Say Anything...,PG-13,100,20thCenturyFox,85
 Scanners,R,102,Sony,64
-Scarface,PG,93,Universal Pictures,86
-Scarface,R,170,Universal Pictures,93
-Scarface,PG,93,Universal Pictures,86
-Scarface,R,170,Universal Pictures,93
+Scarface(1932),PG,93,Universal Pictures,86
+Scarface(1983),R,170,Universal Pictures,93
 Scary Movie,R,88,Dimension Films,43
 Scary Movie 2,R,82,Dimension Films,52
 Scary Movie 3,PG-13,80,Miramax Films,54
@@ -2824,10 +2776,8 @@ Skyline,PG-13,94,Rogue Pictures,18
 Slackers,R,86,Screen Gems,51
 Slap Shot,R,123,MCA Universal Home Video,89
 Sleep Dealer,PG-13,89,Maya Releasing,50
-Sleeping Beauty,G,75,Buena Vista,80
-Sleeping Beauty,NR,101,IFC Films,32
-Sleeping Beauty,G,75,Buena Vista,80
-Sleeping Beauty,NR,101,IFC Films,32
+Sleeping Beauty(1959),G,75,Buena Vista,80
+Sleeping Beauty(2011),NR,101,IFC Films,32
 Sleeping with the Enemy,R,99,20thCenturyFox,61
 Sleepover,PG,89,MGM,54
 Sleepwalking,R,101,Overture Films,43
@@ -3104,10 +3054,8 @@ The Amazing Spider-Man,PG-13,136,Sony,77
 The Amazing Spider-Man 2,PG-13,141,Sony,64
 The American,R,105,Focus Features,39
 The American President,PG-13,114,Columbia Pictures,77
-The Amityville Horror,R,89,MGM,52
-The Amityville Horror,R,117,American International Picture,52
-The Amityville Horror,R,89,MGM,52
-The Amityville Horror,R,117,American International Picture,52
+The Amityville Horror(2005),R,89,MGM,52
+The Amityville Horror(1979),R,117,American International Picture,52
 The Angry Birds Movie,PG,93,Sony,46
 The Animal,PG-13,84,Columbia Pictures,28
 The Animatrix,PG-13,102,Warner Bros.,78
@@ -3240,10 +3188,8 @@ The Dark Knight Rises,PG-13,165,Warner Bros.,90
 The Dark Tower,PG-13,95,Sony,45
 The Darkest Hour,PG-13,89,Summit Entertainment,25
 The Day After Tomorrow,PG-13,123,20thCenturyFox,50
-The Day the Earth Stood Still,G,92,20thCenturyFox,87
-The Day the Earth Stood Still,PG-13,104,20thCenturyFox,27
-The Day the Earth Stood Still,G,92,20thCenturyFox,87
-The Day the Earth Stood Still,PG-13,104,20thCenturyFox,27
+The Day the Earth Stood Still(1951),G,92,20thCenturyFox,87
+The Day the Earth Stood Still(2008),PG-13,104,20thCenturyFox,27
 The Dead Zone,R,103,Paramount,77
 The Debt,R,112,Focus Features,66
 The Deer Hunter,R,183,Universal Pictures,92
@@ -3308,10 +3254,8 @@ The Flintstones,PG,92,Universal Pictures,24
 The Flintstones in Viva Rock Vegas,PG,87,Universal Pictures,20
 The Fly,R,95,20thCenturyFox,83
 The Flying Scotsman,PG-13,103,MGM,51
-The Fog,PG-13,100,Sony,19
-The Fog,R,89,AVCO Embassy Pictures,64
-The Fog,PG-13,100,Sony,19
-The Fog,R,89,AVCO Embassy Pictures,64
+The Fog(2005),PG-13,100,Sony,19
+The Fog(1980),R,89,AVCO Embassy Pictures,64
 The Football Factory,R,89,Image Entertainment,83
 The Forbidden Kingdom,PG-13,105,Lionsgate Films,60
 The Forgotten,PG-13,91,Sony,36
@@ -3329,16 +3273,14 @@ The Game Plan,PG,110,Buena Vista,69
 The General's Daughter,R,111,Paramount,46
 The Ghost Writer,PG-13,129,Summit Entertainment,70
 The Ghost and the Darkness,R,109,Paramount,75
-The Gift,R,110,Paramount,55
-The Gift,R,110,Paramount,55
+The Gift(2000),R,110,Paramount,55
+The Gift(2015),R,110,Paramount,55
 The Girl Next Door,R,108,20thCenturyFox,69
 The Girl Who Kicked the Hornet's Nest,R,146,Music Box Films,67
 The Girl Who Played with Fire (Flickan som lekte med elden),R,129,Music Box Films,68
 The Girl on the Train,R,112,Universal Pictures,49
-The Girl with the Dragon Tattoo,R,158,Sony,86
-The Girl with the Dragon Tattoo,R,152,Music Box Films,87
-The Girl with the Dragon Tattoo,R,158,Sony,86
-The Girl with the Dragon Tattoo,R,152,Music Box Films,87
+The Girl with the Dragon Tattoo(2011),R,158,Sony,86
+The Girl with the Dragon Tattoo(2009),R,152,Music Box Films,87
 The Girlfriend Experience,R,77,Magnolia Pictures,35
 The Giver,PG-13,97,The Weinstein Company,55
 The Godfather,R,177,Paramount,98
@@ -3385,8 +3327,8 @@ The Haunting of Molly Hartley,PG-13,87,Freestyle Releasing,18
 The Heartbreak Kid,R,118,Paramount,37
 The Heat,R,117,20thCenturyFox,71
 The Help,PG-13,146,Dreamworks,89
-The Hills Have Eyes,R,107,20thCenturyFox,58
-The Hills Have Eyes,R,107,20thCenturyFox,58
+The Hills Have Eyes(1977),R,107,20thCenturyFox,58
+The Hills Have Eyes(2006),R,107,20thCenturyFox,58
 The Hills Have Eyes 2,R,89,20thCenturyFox,40
 The History Boys,R,109,20thCenturyFox,70
 The Hitcher,R,90,Rogue Pictures,52
@@ -3399,10 +3341,8 @@ The Hobbit: The Battle of the Five Armies,PG-13,144,Warner Bros.,74
 The Hobbit: The Desolation of Smaug,PG-13,160,Warner Bros.,85
 The Holiday,PG-13,132,Sony,80
 The Horse Whisperer,PG-13,168,Buena Vista,72
-The Host,R,119,Magnolia Pictures,72
-The Host,PG-13,125,Open Road Films,49
-The Host,R,119,Magnolia Pictures,72
-The Host,PG-13,125,Open Road Films,49
+The Host(2007),R,119,Magnolia Pictures,72
+The Host(2013),PG-13,125,Open Road Films,49
 The Hot Chick,PG-13,101,Buena Vista,59
 The Hours,PG-13,114,Miramax Films,84
 The House Bunny,PG-13,97,Sony,50
@@ -3450,10 +3390,8 @@ The Iron Giant,PG,86,Warner Bros.,90
 The Iron Lady,PG-13,105,The Weinstein Company,51
 The Island of Dr. Moreau,PG-13,95,New Line Cinema,20
 The Italian,PG-13,97,Sony,70
-The Italian Job,G,101,Paramount,86
-The Italian Job,PG-13,111,Paramount,80
-The Italian Job,G,101,Paramount,86
-The Italian Job,PG-13,111,Paramount,80
+The Italian Job(1969),G,101,Paramount,86
+The Italian Job(2003),PG-13,111,Paramount,80
 The Jackal,R,124,Universal Pictures,52
 The Jacket,R,102,Warner Bros.,73
 The Jane Austen Book Club,PG-13,106,Sony,67
@@ -3462,14 +3400,10 @@ The Jetsons,G,82,MCA Universal Home Video,44
 The Jewel of the Nile,PG,104,20thCenturyFox,37
 The Joy Luck Club,R,138,Buena Vista,89
 The Judge,R,141,Warner Bros.,72
-The Jungle Book,PG,78,Buena Vista,82
-The Jungle Book,PG,105,Disney,86
-The Jungle Book,PG,78,Buena Vista,82
-The Jungle Book,PG,105,Disney,86
-The Karate Kid,PG,126,Columbia Pictures,82
-The Karate Kid,PG,140,Sony,67
-The Karate Kid,PG,126,Columbia Pictures,82
-The Karate Kid,PG,140,Sony,67
+The Jungle Book(1967),PG,78,Buena Vista,82
+The Jungle Book(2016),PG,105,Disney,86
+The Karate Kid(1984),PG,126,Columbia Pictures,82
+The Karate Kid(2010),PG,140,Sony,67
 The Karate Kid Part II,PG,113,Columbia Pictures,51
 "The Karate Kid, Part III",PG,111,Sony,35
 The Kid,PG,96,Disney,49
@@ -3518,10 +3452,8 @@ The Life Aquatic with Steve Zissou,R,118,Buena Vista,82
 The Life of David Gale,R,130,Universal Pictures,81
 The Limits of Control,R,116,Focus Features,43
 The Lincoln Lawyer,R,119,Lionsgate Films,82
-The Lion King,G,87,Buena Vista,93
-The Lion King,PG,118,Disney,88
-The Lion King,G,87,Buena Vista,93
-The Lion King,PG,118,Disney,88
+The Lion King(1994),G,87,Buena Vista,93
+The Lion King(2019),PG,118,Disney,88
 The Lion King 1 1/2,G,76,Disney,62
 The Lion King II: Simba's Pride,G,75,Disney,60
 The Little Mermaid,G,82,Disney,88
@@ -3536,10 +3468,8 @@ The Lone Ranger,PG-13,149,Disney,51
 The Long Kiss Goodnight,R,120,New Line Cinema,70
 The Longest Day,G,180,20thCenturyFox,90
 The Longest Ride,PG-13,128,20thCenturyFox,71
-The Longest Yard,R,121,Paramount,75
-The Longest Yard,PG-13,113,Paramount,62
-The Longest Yard,R,121,Paramount,75
-The Longest Yard,PG-13,113,Paramount,62
+The Longest Yard(1974),R,121,Paramount,75
+The Longest Yard(2005),PG-13,113,Paramount,62
 The Lookout,R,99,Miramax Films,74
 The Lord of the Rings,PG,131,Warner Bros.,64
 The Lord of the Rings: The Fellowship of the Ring,PG-13,178,New Line Cinema,95
@@ -3554,10 +3484,8 @@ The Love Guru,PG-13,87,Paramount,33
 The Lovely Bones,PG-13,136,Paramount,52
 The Lucky One,PG-13,101,Warner Bros.,67
 The Machinist,R,101,Paramount,83
-The Magnificent Seven,R,126,MGM,87
-The Magnificent Seven,PG-13,128,Sony,72
-The Magnificent Seven,R,126,MGM,87
-The Magnificent Seven,PG-13,128,Sony,72
+The Magnificent Seven(1960),R,126,MGM,87
+The Magnificent Seven(2016),PG-13,128,Sony,72
 The Majestic,PG,152,Universal Pictures,60
 The Maltese Falcon,PG,100,Warner Bros.,91
 The Man,PG-13,83,New Line Cinema,41
@@ -3572,10 +3500,8 @@ The Man in the Iron Mask,PG-13,132,MGM,55
 The Man in the Moon,PG-13,99,MGM,85
 The Man with Two Brains,R,93,Warner Bros.,64
 The Man with the Golden Gun,PG,125,MGM,55
-The Manchurian Candidate,PG-13,126,MGM,90
-The Manchurian Candidate,R,130,Paramount,63
-The Manchurian Candidate,PG-13,126,MGM,90
-The Manchurian Candidate,R,130,Paramount,63
+The Manchurian Candidate(1962),PG-13,126,MGM,90
+The Manchurian Candidate(2004),R,130,Paramount,63
 The Marine,PG-13,91,20thCenturyFox,60
 The Martian,PG-13,142,20thCenturyFox,91
 The Mask,PG-13,101,New Line Cinema,68
@@ -3605,10 +3531,8 @@ The Monuments Men,PG-13,118,Sony,44
 The Mortal Instruments: City of Bones,PG-13,130,Sony,58
 The Mothman Prophecies,PG-13,119,Screen Gems,56
 The Motorcycle Diaries,R,126,Focus Features,92
-The Mummy,PG-13,124,Universal Pictures,75
-The Mummy,PG-13,107,Universal Pictures,35
-The Mummy,PG-13,124,Universal Pictures,75
-The Mummy,PG-13,107,Universal Pictures,35
+The Mummy(1999),PG-13,124,Universal Pictures,75
+The Mummy(2017),PG-13,107,Universal Pictures,35
 The Mummy Returns,PG-13,129,Universal Pictures,63
 The Mummy: Tomb of the Dragon Emperor,PG-13,112,Universal Pictures,30
 The Muppet Christmas Carol,G,85,Buena Vista,85
@@ -3645,10 +3569,8 @@ The Nutty Professor,NR,107,Paramount,67
 The Object of My Affection,R,112,20thCenturyFox,51
 The Odd Couple,PG,105,Paramount,89
 The Odd Life of Timothy Green,PG,104,Disney,67
-The Omen,R,111,20thCenturyFox,80
-The Omen,R,110,20thCenturyFox,40
-The Omen,R,111,20thCenturyFox,80
-The Omen,R,110,20thCenturyFox,40
+The Omen(1976),R,111,20thCenturyFox,80
+The Omen(2006),R,110,20thCenturyFox,40
 The One,PG-13,87,Columbia Pictures,51
 The Open Road,PG-13,90,Anchor Bay Entertainment,25
 The Orphanage,R,105,Picturehouse,86
@@ -3662,10 +3584,8 @@ The Outsiders,PG,91,Warner Bros.,82
 The Pacifier,PG,95,Buena Vista,59
 The Pagemaster,G,75,20thCenturyFox,48
 The Painted Veil,PG-13,125,Warner Bros.,85
-The Parent Trap,G,124,Buena Vista,75
-The Parent Trap,PG,127,Disney,70
-The Parent Trap,G,124,Buena Vista,75
-The Parent Trap,PG,127,Disney,70
+The Parent Trap(1961),G,124,Buena Vista,75
+The Parent Trap(1998),PG,127,Disney,70
 The Party,PG,99,United Artists Pictures,88
 The Passion of the Christ,R,126,Newmarket Films LLC,80
 The Patriot,R,158,Columbia Pictures,81
@@ -3681,15 +3601,13 @@ The Perfect Storm,PG-13,129,Warner Bros.,64
 The Perks of Being a Wallflower,PG-13,103,Lionsgate Films,89
 The Pest,PG-13,82,Sony,68
 The Phantom,PG,100,Paramount,31
-The Phantom of the Opera,PG-13,141,Warner Bros.,84
-The Phantom of the Opera,PG-13,141,Warner Bros.,84
+The Phantom of the Opera(1989),R,90,Columbia Pictures,53
+The Phantom of the Opera(2005),PG-13,141,Warner Bros.,84
 The Philadelphia Story,NR,112,MGM,93
 The Pianist,R,148,Focus Features,96
 The Piano,R,120,Miramax Films,86
-The Pink Panther,NR,113,United Artists Pictures,78
-The Pink Panther,PG,93,MGM,51
-The Pink Panther,NR,113,United Artists Pictures,78
-The Pink Panther,PG,93,MGM,51
+The Pink Panther(1963),NR,113,United Artists Pictures,78
+The Pink Panther(2006),PG,93,MGM,51
 The Pink Panther Strikes Again,PG,103,United Artists Pictures,84
 The Pirates Who Don't Do Anything: A VeggieTales Movie,G,91,Universal Pictures,61
 The Pirates! Band of Misfits,PG,88,Sony,60
@@ -3707,10 +3625,8 @@ The Princess Bride,PG,98,20thCenturyFox,94
 The Princess Diaries,G,115,Disney,68
 The Princess Diaries 2 - Royal Engagement,G,113,Disney,59
 The Princess and the Frog,G,95,Disney,74
-The Producers,PG,88,AVCO Embassy Pictures,85
-The Producers,PG-13,134,Universal Pictures,63
-The Producers,PG,88,AVCO Embassy Pictures,85
-The Producers,PG-13,134,Universal Pictures,63
+The Producers(1968),PG,88,AVCO Embassy Pictures,85
+The Producers(2005),PG-13,134,Universal Pictures,63
 The Promotion,R,86,The Weinstein Company,28
 The Prophecy,R,98,Dimension Films,64
 The Proposal,PG-13,108,Disney,67
@@ -3841,18 +3757,14 @@ The Texas Chainsaw Massacre 2,R,100,Media Home Entertainment,44
 The Texas Chainsaw Massacre: The Beginning,R,91,New Line Cinema,53
 The Theory of Everything,PG-13,123,Focus Features,84
 The Thin Red Line,R,170,20thCenturyFox,80
-The Thing,R,108,Universal Pictures,92
-The Thing,R,103,Universal Pictures,42
-The Thing,R,108,Universal Pictures,92
-The Thing,R,103,Universal Pictures,42
+The Thing(1982),R,108,Universal Pictures,92
+The Thing(2011),R,103,Universal Pictures,42
 The Third Man,NR,104,Rialto Pictures,93
 The Thirteenth Floor,R,100,Sony,64
 The Thomas Crown Affair,R,113,MGM,77
 The Three Burials of Melquiades Estrada,R,121,Sony,81
-The Three Musketeers,PG,105,Disney,62
-The Three Musketeers,PG-13,110,Summit Entertainment,39
-The Three Musketeers,PG,105,Disney,62
-The Three Musketeers,PG-13,110,Summit Entertainment,39
+The Three Musketeers(1993),PG,105,Disney,62
+The Three Musketeers(2011),PG-13,110,Summit Entertainment,39
 The Three Stooges,PG,92,20thCenturyFox,47
 The Tigger Movie,G,77,Buena Vista,62
 The Time Machine,PG-13,96,Dreamworks,37
@@ -3905,10 +3817,8 @@ The Wedding Singer,PG-13,96,New Line Cinema,80
 The White Ribbon (Das weisse Band),R,144,Sony,79
 The Whole Nine Yards,R,101,Warner Bros.,64
 The Whole Ten Yards,PG-13,99,Warner Bros.,40
-The Wicker Man,R,102,Lionsgate Films,82
-The Wicker Man,PG-13,103,Warner Bros.,17
-The Wicker Man,R,102,Lionsgate Films,82
-The Wicker Man,PG-13,103,Warner Bros.,17
+The Wicker Man(1973),R,102,Lionsgate Films,82
+The Wicker Man(2006),PG-13,103,Warner Bros.,17
 The Wild,G,85,Buena Vista,36
 The Wild Bunch,R,142,Warner Bros.,91
 The Wind That Shakes the Barley,NR,126,IFC Films,87
@@ -3972,10 +3882,8 @@ Timeline,PG-13,116,Paramount,45
 Tin Cup,R,133,New Line Cinema,65
 Tinker Tailor Soldier Spy,R,127,Focus Features,65
 Titan A.E.,PG,95,20thCenturyFox,60
-Titanic,NR,97,20thCenturyFox,66
-Titanic,PG-13,195,Paramount,69
-Titanic,NR,97,20thCenturyFox,66
-Titanic,PG-13,195,Paramount,69
+Titanic(1953),NR,97,20thCenturyFox,66
+Titanic(1997),PG-13,195,Paramount,69
 To Catch a Thief,PG,106,Paramount,84
 To Die For,R,103,Columbia Pictures,65
 To Kill A Mockingbird,NR,129,Universal Pictures,92
@@ -3992,10 +3900,8 @@ Top Five,R,101,Paramount,64
 Top Gun,PG,109,Paramount,83
 Top Secret!,PG,90,Paramount,80
 Torque,PG-13,81,Warner Bros.,41
-Total Recall,R,109,TriStar Pictures,78
-Total Recall,PG-13,117,Sony,47
-Total Recall,R,109,TriStar Pictures,78
-Total Recall,PG-13,117,Sony,47
+Total Recall(1990),R,109,TriStar Pictures,78
+Total Recall(2012),PG-13,117,Sony,47
 Tower Heist,PG-13,105,Universal Pictures,48
 Toy Soldiers,R,112,Sony,66
 Toy Story,G,80,Buena Vista,92
@@ -4031,10 +3937,8 @@ Tron Legacy,PG,125,Disney,63
 Tropic Thunder,R,107,Dreamworks,70
 Trouble with the Curve,PG-13,111,Warner Bros.,66
 Troy,R,162,Warner Bros.,73
-True Grit,G,128,Paramount,84
-True Grit,PG-13,110,Paramount,85
-True Grit,G,128,Paramount,84
-True Grit,PG-13,110,Paramount,85
+True Grit(1969),G,128,Paramount,84
+True Grit(2010),PG-13,110,Paramount,85
 True Romance,R,116,Warner Bros.,93
 Trumbo,PG-13,96,Samuel Goldwyn Films,78
 Trust the Man,R,103,20thCenturyFox,35
@@ -4197,10 +4101,8 @@ Whatever Works,PG-13,92,Sony,61
 When Did You Last See Your Father?,PG-13,92,Sony,64
 When Harry Met Sally,R,95,Columbia Pictures,89
 When a Man Loves a Woman,R,124,Touchstone Pictures,77
-When a Stranger Calls,R,100,Sony,49
-When a Stranger Calls,PG-13,87,Screen Gems,44
-When a Stranger Calls,R,100,Sony,49
-When a Stranger Calls,PG-13,87,Screen Gems,44
+When a Stranger Calls(1979),R,100,Sony,49
+When a Stranger Calls(2006),PG-13,87,Screen Gems,44
 When in Rome,PG-13,91,Disney,41
 Where Eagles Dare,PG,158,MGM,89
 Where the Heart Is,PG-13,120,20thCenturyFox,76
