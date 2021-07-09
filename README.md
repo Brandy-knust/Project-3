@@ -2,6 +2,8 @@
 
 # Prediction of Audience Score by Using Machine Learning
 
+![demo.png](image/demo.png)
+
 ## About the Model:
 This machine learning model predicts the expected audience rating/score from "www.rottentomatoes.com" that a potential movie will obtain after selecting:
 * Up to three different movie directors,
