@@ -21,10 +21,10 @@ This model could be used for:
 ---
 
 <b>Team Members:</b>
-Brandy Knust
-Tyler Nguyen
-Adolfo Prieto
-Oscar Sanguino
+* Brandy Knust
+* Tyler Nguyen
+* Adolfo Prieto
+* Oscar Sanguino
 
 <b>Notes</b>:
 * The data set used contains more than 4000 movie titles from the last 80+ years.
